@@ -43,3 +43,20 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+/* Media Queries for Responsive Design */
+
+@media only screen and (max-width: 600px) {
+    nav ul {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    nav li {
+        margin: 5px;
+    }
+
+    footer {
+        position: relative;
+    }
+}
