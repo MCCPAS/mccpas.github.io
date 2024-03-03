@@ -60,3 +60,26 @@ footer {
         position: relative;
     }
 }
+/* ... (existing styles) */
+
+/* Center justification styles */
+.center {
+    text-align: center;
+}
+
+/* Media Queries for Responsive Design */
+
+@media only screen and (max-width: 600px) {
+    nav ul {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    nav li {
+        margin: 5px;
+    }
+
+    footer {
+        position: relative;
+    }
+}
