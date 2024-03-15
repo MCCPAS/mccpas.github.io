@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Executive Committee
+## Executive Committee                                    [back](./)
 
 ### Faculty Representatives
 
@@ -25,8 +25,8 @@ layout: default
 | Dr.Amrutha                  |                             |1986-91|
 | Ms.Sujatha                  |                             |1989-91|
 | Capt.E.Daniel               |                             |1992-95|
-| Mr.Cecil Sesuraj            |                             |1995-00|
-| Dr.Sam Paul D.              |                             |2005-10|
+| Mr.Cecil Peter Sesuraj      |                             |1995-00|
+| Dr.Sam Paul D.              |Secretary                    |2005-10|
 | Dr.Sheril Ann Mathew        |                             |2011-17|
 | Mr.Abraham Rebairo          |                             |2012-17|
 

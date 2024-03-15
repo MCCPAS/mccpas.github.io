@@ -2,15 +2,15 @@
 layout: default
 ---
 
-[**About**](./about.html)
+## [About](./about.html)
 
-[**Committee**](./committee.html)
+## [Committee](./committee.html)
 
-[**Contributions**](./contributions.html)
+## [Contributions](./contributions.html)
 
-[**Events**](./events.html)
+## [Events](./events.html)
 
-[**Contact**](./contact.html)
+## [Contact](./contact.html)
 
 * * *
 
