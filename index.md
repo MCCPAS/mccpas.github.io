@@ -3,9 +3,13 @@ layout: default
 ---
 
 [**About**](./about.html)
+
 [**Committee**](./about.html)
+
 [**Contributions**](./contributions.html)
+
 [**Events**](./events.html)
+
 [**Contact**](./contact.html)
 
 * * *
