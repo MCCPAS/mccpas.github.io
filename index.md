@@ -2,10 +2,13 @@
 layout: default
 ---
 
-[**ABOUT**](./about.html).
-[**CONTRIBUTIONS**](./contributions.html).
-[**EVENTS**](./events.html).
-[**CONTACT**](./contact.html).
+[**About**](./about.html)
+[**Committee**](./about.html)
+[**Contributions**](./contributions.html)
+[**Events**](./events.html)
+[**Contact**](./contact.html)
+
+* * *
 
 There should be whitespace between paragraphs.
 
