@@ -83,15 +83,15 @@ Our alumni, all of them, who came back to the department for the nostalgia, evin
 | Dr.N.Gautham                 |1971-74|
 | Mr.Samuel Jayakaran          |1987-90|
 
-| Year  |B.Sc.|M.Sc.|Total Amount(INR)|
-|:------|:----|:----|:----------------|
-|2017-18|    6|    1|        35,000.00|
-|2018-19|    9|    5|      1,46,622.00|
-|2019-20|    7|    3|      1,36,671.00|
-|2020-21|    8|    5|      1,08,758.00|
-|2021-22|    6|    6|      1,48,401.00|
-|2022-23|    6|    3|      1,07,782.00|
-|2023-24|    9|    2|      1,46,060.00|
+| Year  |B.Sc.|M.Sc.|Total Amount|
+|:------|:----|:----|:-----------|
+|2017-18|    6|    1|   35,000.00|
+|2018-19|    9|    5| 1,46,622.00|
+|2019-20|    7|    3| 1,36,671.00|
+|2020-21|    8|    5| 1,08,758.00|
+|2021-22|    6|    6| 1,48,401.00|
+|2022-23|    6|    3| 1,07,782.00|
+|2023-24|    9|    2| 1,46,060.00|
 
 ### Scholarship for Girl students by 1992-95 batch
 Students of B.Sc. batch 1992-95, coordinated by Dr.Vigneswara Ilavarasan (Professor,IIT-D), came forward with an initiative to provide financial assistance towards the education of girl students in the Physics Department. This scholarship is provided every year since 2018.
