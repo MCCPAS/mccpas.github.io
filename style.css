@@ -1,58 +1,18 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-header {
-    background-color: #6e061d;
-    color: white;
-    text-align: center;
-    padding: 10px;
-}
-
-nav {
-    background-color: #eee;
-    padding: 10px;
-}
-
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: space-around;
-}
-
-nav a {
-    text-decoration: none;
-    color: #6e061d;
-    font-weight: bold;
-}
-
-main {
-    padding: 20px;
-}
-
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
-
-p {
-    text-align: justify;
-    /* Additional styling for better readability if needed */
-    font-size: 16px;
-    line-height: 1.5;
-    margin: 10px 0;
-}
-
 /* ... (existing styles) */
+
+/* Two-column layout styles */
+.container {
+    display: flex;
+}
+
+.left {
+    flex: 1; /* Take up 50% of the container */
+}
+
+.right {
+    flex: 1; /* Take up 50% of the container */
+    margin-left: 20px; /* Add some space between the columns */
+}
 
 /* Slideshow Styles */
 #slideshow {
@@ -64,19 +24,19 @@ p {
 
 .slides {
     display: none;
-    width: 50%;
+    width: 100%;
 }
 
 /* Media Queries for Responsive Design */
 
-@media only screen and (max-width: 150px) {
-    nav ul {
-        flex-direction: column;
-        text-align: center;
+@media only screen and (max-width: 600px) {
+    .container {
+        flex-direction: column; /* Switch to a single column layout on smaller screens */
     }
 
-    nav li {
-        margin: 5px;
+    .right {
+        margin-left: 0; /* Remove margin between columns on smaller screens */
+        margin-top: 20px; /* Add some space between the columns */
     }
 
     footer {
