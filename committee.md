@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Executive Committee                                    [back](./)
+## Executive Committee
 
 ### Faculty Representatives
 
