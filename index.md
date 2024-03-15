@@ -2,9 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
+[**ABOUT**](./about.html).
+[**CONTRIBUTIONS**](./contributions.html).
+[**EVENTS**](./events.html).
+[**CONTACT**](./contact.html).
 
 There should be whitespace between paragraphs.
 
