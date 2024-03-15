@@ -6,12 +6,46 @@ layout: default
 
 ### Prof.K.M.Karunakaran(KMK) Endowment Fund
 
-| Donor             | Batch |
-|:------------------|:------|
-| good swedish fish | nice  |
-| good and plenty   | nice  |
-| good `oreos`      | hmm   |
-| good `zoute` drop | yumm  |
+Our alumni, all of them, who came back to the department for the nostalgia, evinced a keen interest to do something for the department from which they had evolved.  One of the main objectives of the Physics Alumni Meet (PAM 2010), was to establish a structured connect with the department, a platform. This would enable the interaction with the department and help the alumni to contribute towards its value addition, in whatever way they could. At the inaugural PAM meet on December,18, 2010, the then constituted panel formulated the forming of the Physics Alumni Society (PAS). At the subsequent early meetings of the executive committee, it was realized that many alumni expressed great interest and enthusiasm to establish an annual endowment lecture. This event would be a great value addition to the department's academic status. The students of MCC and other city colleges would be benefitted by the exposure to current topics, explained by experts in the respective fields.
+
+1.	Prof. P.M. Mathews
+2.	Prof. M. Lakshmanan
+3.	Dr. S. Ravichandran
+4.	Prof. N. Gautham
+5.	Dr. Aruna Dhathathreyan
+6.	Dr. Peter Jayapandian
+7.	Dr. Amrutha & team
+8.	Dr. N. Manju
+9.	Dr. M.M. Govind
+10.	Ms. Mary Agnes Joseph
+11.	Dr. R. Balakrishnan
+12.	Dr. N. Lakshminarayan
+13.	Dr. R. Manickkavachagam
+14.	Dr. P. Samuel Asirvatham
+15.	Mr. Vijay Kumar Reddy
+16.	Mr. A.P. Parthiban
+17.	Mr. T.S. Krishnaswamy
+18.	Dr. Vaidehi Ganesan
+19.	Mr. Saravanan Kannan
+20.	Mr. V. Badrinarayanan
+21.	Mr. Mukundan Chakrapani
+22.	Mr. Moses Mathuram
+23.	Mr. C.N. Purushothaman
+24.	Mr. R.G. Subramaniyan
+25.	Mr. Kumar S. Rajeev
+26.	Mr. Raguvir Gurumurthy
+27.	Mr. G. Hariharan
+28.	Mr. Satish Tavag
+29.	Brig. V.A. Subramanyam
+30.	Capt. Anand Jayaraman
+31.	Mr. Cherian Thompson
+32.	Mr. P. Sankara Narayanan
+33.	Capt. E. Daniel
+34.	Ms. Evanjilina Selvanathan
+35.	Ms. Hepzi Sekar
+36.	Prof. K.S. Venkatasubban
+37.	Mr. Sam Muthiah Franklin
+38.	Mr. Joseph George
 
 ### PAS Scholarship
 
@@ -19,7 +53,7 @@ layout: default
 |:-----------------------------|:------|
 | Mr.Vijay Reddy               |1975-80|
 | Mr.A.P.Parthiban             |1975-80|
-| Capt.E.Daniel                |1992-95|
+| Capt.E.Daniel                |1989-92|
 | Capt.Anand Jayaraman         |1987-90|
 | Mr.Anand Walser              |1988-91|
 | Mr.Bhaskar                   |2001-04|
@@ -49,21 +83,43 @@ layout: default
 Students of B.Sc. batch 1992-95, coordinated by Dr.Vigneswara Ilavarasan (Professor,IIT-D), came forward with an initiative to provide financial assistance towards the education of girl students in the Physics Department. This scholarship is provided every year since 2018.
 
 ### Prof.K.M.Karunkaran Prize for Quantum Mechanics
-The students of the 1981-84 batch,B.Sc.(Physics) instituted this Prize. The Prize is awarded to the 3rd B.Sc. student who has excelled in Quantum Mechanics. This prize is awarded every year since 2010.
+The students of the 1981-84 batch, B.Sc. (Physics) instituted the Prof. K.M. Karunakaran Prize for Quantum Mechanics. This prize is awarded to the 3rd B.Sc. student who has excelled in Quantum Mechanics. This prize is being awarded every year from 2010. The efforts for instituting this prize had been taken by Dr.S.I.A. Philomin raj, very much before the emergence of the PAM or PAS.
 
-### Prof.P.M.Mathews Prize for Quantum Mechanics in P.G. Physics
-Our Alumnus Prof.P.M.Mathews(1947-52),Senior Professor and Head(Retd.)-Department of Theoretical Physics,University of Madras,contributed INR 1 Lakh to institute this Prize.This prize is awarded every year since 2019. 
+### Prof.P.M.Mathews Prize for Quantum Mechanics
+The prize is awarded to the 2nd M.Sc. student who has excelled in Quantum Mechanics. This prize has been instituted, in 2019, solely by a lumpsum contribution from our Alumnus Prof.P.M.Mathews(1947-52),Senior Professor and Head(Retd.)-Department of Theoretical Physics,University of Madras. This prize will be awarded from academic year 2019-2020 onwards.
 
 ### GPU-enabled Workstation
 Overwhelming and spontaneous contributions of many Alumni enabled the procurement of a GPU-enabled Workstation optimized to suit the requirements of the department.
 
 | Donor                        | Batch |
 |:-----------------------------|:------|
-| Batch 1995                   |       |
+| Student of batch 1995        |1992-95|
 | Mr.Raguvir Gurumurthy        |1981-84|
 | Ms.Sujatha                   |1989-91|
+| Dr.P.Samuel Asirvatham       |1982-87|
+| Dr.Deepak Samuel             |1996-02|
+| Mr.Moses Mathuram            |1989-92|
+| Dr.R.Balakrishnan            |1960-65|
+| Dr.Narasinga Rao             |1956-69|
+| Dr.L.Sriram Kumar            |1987-90|
+| Mr.Arun Achamkulamgara       |1983-88|
+| Dr.P.M.Mathews               |1947-52|
+| Mr.Anand Walser              |1988-91|
+
 
 ### Air Conditioner for Students' Computer Lab
+
+Students of B.Sc. batch 1993-1990-1993 (Coordinator : Mr. Saravanan Kannan) provided a 1.5 ton split air conditioner for the students' computer lab in the Physics Department.
+
+| Donor                        | Batch |
+|:-----------------------------|:------|
+| Mr.Abraham Kirubakaran       |1990-93|
+| Mr.Unnikrishnan Ravindranath |1990-93|
+| Mr.Jayaram Menon             |1990-93|
+| Mr.Yesrab Ali                |1990-93|
+| Mr.Saravanan Kannan          |1990-93|
+| Mr.Sam Rajakumar             |1990-93|
+| Mr.V.S.Rajaraman             |1990-93|
 
 
 [back](./)
