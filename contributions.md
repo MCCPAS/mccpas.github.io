@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Contributions from Physics Alumni
+## Contributions
 
-## Prof.K.M.Karunakaran Endowment Fund
+### Prof.K.M.Karunakaran(KMK) Endowment Fund
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -13,10 +13,12 @@ layout: default
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-## Prof.P.M.Matthews Prize
+### Prof.K.M.Karunkaran Prize for Quantum Mechanics
 
 
-## PAS Scholarship
+
+
+### PAS Scholarship
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
