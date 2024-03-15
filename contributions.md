@@ -124,7 +124,7 @@ Overwhelming and spontaneous contributions of many Alumni enabled the procuremen
 
 ### Air Conditioner for Students' Computer Lab
 
-Students of B.Sc. batch 1993-1990-1993 (Coordinator : Mr. Saravanan Kannan) provided a 1.5 ton split air conditioner () for the students' computer lab in the Physics Department.
+Students of B.Sc. batch 1990-1993 (Coordinator: Mr. Saravanan Kannan) provided a 1.5 ton split air conditioner () for the students' computer lab in the Physics Department.
 
 | Donor                        | Batch |
 |:-----------------------------|:------|
