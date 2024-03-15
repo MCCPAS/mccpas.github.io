@@ -4,7 +4,7 @@ layout: default
 
 [**About**](./about.html)
 
-[**Committee**](./about.html)
+[**Committee**](./committee.html)
 
 [**Contributions**](./contributions.html)
 
