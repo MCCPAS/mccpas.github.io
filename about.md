@@ -8,7 +8,6 @@ The unfolding of events that led to the beginning of the alumni association of k
 
 Dr. R. Balakrishnan (RBK) always used to feel that our past pupils were a great strength to further develop and strengthen the department. Dr. Samuel Asirvatham (SA) and Dr. N. Lakshminarayan (NLN) had often discussed organizing a meeting of Physics department alumni. One day, there came along four spirited youngsters – Mr. Parthiban, Mr. Purushothaman, Mr. Radhakrishnan and Mr. Vijay Reddy of the 1975-80 batch. They had come up with the idea of organizing an alumni meet. However, this idea did not take off immediately. The idea then started spreading like wildfire in the modern jungle called the Internet. We now had a tiger by its tail and couldn’t let go. It had to happen, and it did, in 2010!
 
-
 > ‘The idea then started spreading like wildfire in
 >  the modern jungle called the Internet’
 
