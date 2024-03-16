@@ -6,6 +6,8 @@ layout: default
 
 ### Prof.K.M.Karunakaran(KMK) Endowment Fund
 
+![KMK](/assets/img/kmk_1.png)
+
 Our alumni, all of them, who came back to the department for the nostalgia, evinced a keen interest to do something for the department from which they had evolved.  One of the main objectives of the Physics Alumni Meet (PAM 2010), was to establish a structured connect with the department, a platform. This would enable the interaction with the department and help the alumni to contribute towards its value addition, in whatever way they could. At the inaugural PAM meet on December,18, 2010, the then constituted panel formulated the forming of the Physics Alumni Society (PAS). At the subsequent early meetings of the executive committee, it was realized that many alumni expressed great interest and enthusiasm to establish an annual endowment lecture. This event would be a great value addition to the department's academic status. The students of MCC and other city colleges would be benefitted by the exposure to current topics, explained by experts in the respective fields.
 
 |   | Donor                        | Batch |
