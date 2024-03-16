@@ -1,6 +1,6 @@
 title: Physics Alumni Society MCC
 logo: /assets/img/logo.png
 description: Alumni Group for Physics Alumni of Madras Christian College
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
