@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+
+![Group](/assets/img/group1.png)
+
+![Group](/assets/img/group2.png)
+
 ## My Early Days at Tambaram
 
 **Dr.B.Mangalaraj Arthur,**
