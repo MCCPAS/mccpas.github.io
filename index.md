@@ -8,6 +8,7 @@ layout: default
 
 ## My Early Days at Tambaram
 
+![BMA](/assets/img/bma_1.png)
 **Dr.B.Mangalaraj Arthur,**
 Retd., Professor, Dept.of.Physics, M.C.C., Tambaram.
 
