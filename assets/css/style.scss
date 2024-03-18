@@ -2,13 +2,4 @@
 ---
 
 @import "jekyll-theme-minimal";
-.gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 10px;
-}
 
-.gallery img {
-    width: 100%;
-    height: auto;
-}

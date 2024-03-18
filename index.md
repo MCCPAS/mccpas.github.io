@@ -1,14 +1,12 @@
 ---
 layout: default
 ---
+![Group](/assets/img/group1.png)
 
-<div class="gallery">
-    <img src="/assets/img/group1.png" alt="Image 1">
-    <img src="/assets/img/group2.png" alt="Image 2">
-    <img src="/assets/img/2010_mini_group.png" alt="Image 3">
-    <!-- Add more images as needed -->
-</div>
+![Group](/assets/img/group2.png)
 
+![Group](/assets/img/2010_mini_group.png)
+Physics Alumni Meet 2010
 
 
 ## My Early Days at Tambaram
