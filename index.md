@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-![Group](/assets/img/PAM2011.jpg)
-PAM - 2011
-
 
 ## My Early Days at Tambaram
 

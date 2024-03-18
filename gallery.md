@@ -16,6 +16,8 @@ layout: default
 ![Group](/assets/img/2010_mini_group.png)
 PAM - 2010
 
+![Group](/assets/img/pam2011.jpg)
+PAM - 2011
 
 
 
