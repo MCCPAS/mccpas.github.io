@@ -6,7 +6,10 @@ layout: default
 ![Group](/assets/img/group2.png)
 
 ![Group](/assets/img/2010_mini_group.png)
-Physics Alumni Meet 2010
+PAM - 2010
+
+![Group](/assets/img/PAM2011.jpg)
+PAM - 2011
 
 
 ## My Early Days at Tambaram
