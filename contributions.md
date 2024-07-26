@@ -97,6 +97,7 @@ Our alumni, all of them, who came back to the department for the nostalgia, evin
 |2021-22|    6|    6| 1,48,401.00|
 |2022-23|    6|    3| 1,07,782.00|
 |2023-24|    9|    2| 1,46,060.00|
+|2024-25|   14|    2| 2,10,053.00|
 
 ### Scholarship for Girl students by 1992-95 batch
 Students of B.Sc. batch 1992-95, coordinated by Dr.Vigneswara Ilavarasan (Professor,IIT-D), came forward with an initiative to provide financial assistance towards the education of girl students in the Physics Department. This scholarship is provided every year since 2018.
