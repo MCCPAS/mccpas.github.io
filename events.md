@@ -5,7 +5,7 @@
 
 ### Prof. K.M. Karunakaran Endowment Lecture
 
-|   | Date      | Speaker                                   | YouTube Link                     |
+|   | Date      | Speaker                                   |                                  |
 |:--|:----------|:------------------------------------------|:---------------------------------|
 |1. | 17.08.2012| Prof. K. Thyagarajan, IIT-D              | [Watch](#)                      |
 |2. | 26.02.2014| Prof. N. Gautham, Madras University      | [Watch](https://youtu.be/Q6SrB7eI64Q?si=csY2SSFoAWLlo_eh)                      |
