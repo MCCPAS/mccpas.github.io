@@ -1,5 +1,3 @@
-Sure! Here’s the updated table with an additional column for YouTube links:
-
 
 ---
 
