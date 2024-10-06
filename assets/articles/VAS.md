@@ -58,4 +58,3 @@ The second suggestion is dependent on the first. Most of the present generation 
 
 Finally, my grateful thanks to the Department of Physics and all those who were involved directly as well as indirectly, with organizing such a good programme. I am also indebted to Dr Sekar Raghavan and Shri Mahadevan, who not only motivated me to participate in the programme but also tied up the administrative arrangements to come to venue. A special word of appreciation to all the students who were extremely courteous and helpful to the elderly alumni to make us more comfortable and at ease in the new environment.
 
-[back](index.md)
