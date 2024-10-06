@@ -6,3 +6,5 @@ layout: default
 More details will be shared soon.
 
 For queries, send e-mail to physicsalumnimcc@gmail.com 
+
+[back](./)
