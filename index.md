@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Physics Alumni Meet 2024 14.12.2024 in MCC
 
 Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2024
