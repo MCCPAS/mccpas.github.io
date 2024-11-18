@@ -8,6 +8,12 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 
 
 ## Registered Participants for PAM 2024
+
+|   | Donor                        | Batch |
+|:--|:-----------------------------|:------|
+|1. |john                          |  2020 |
+
+
 | Name                                 | Batch|
 |:-------------------------------------|:-----|
 | Abraham Rebairo	                     | 2017 |
