@@ -87,6 +87,7 @@ Our alumni, all of them, who came back to the department for the nostalgia, evin
 | Dr.S.Narayan (IAS Retd.)     |1958-63|
 | Dr.N.Gautham                 |1971-74|
 | Mr.Samuel Jayakaran          |1987-90|
+| Dr.N.Lakshminarayan          |1975-77|
 
 | **Year** | **B.Sc. Students** | **M.Sc. Students** | **Total Amount (₹)** |
 |:--------:|-------------------:|-------------------:|---------------------:|
