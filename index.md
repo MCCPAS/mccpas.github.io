@@ -52,3 +52,5 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | Deepak Samuel                        | 2002 |
 | Ashok Kumar                          | 2000 |
 | Vimalan N Thyagarajan                | 1999 |
+| Neeraja                              | 1998 |
+| Balaji E                             | 1992 |
