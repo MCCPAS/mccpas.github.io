@@ -55,3 +55,4 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | Neeraja                              | 1998 |
 | Balaji E                             | 1992 |
 | Vinod Kumar                          | 1998 |
+| C N Purushothaman                    | 1975 |
