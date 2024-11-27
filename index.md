@@ -19,7 +19,7 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | N. Gautham	                         | 1975 |
 | D.John Gnanakkan	                   | 1975 |
 | C N Purushothaman                    | 1975 |
-| Ashok                                | 1977 |
+| Ashok Mani                           | 1977 |
 | A P Parthiban                        | 1978 |
 | R SANKARA NARAYANAN 	               | 1981 |
 | A B Sivasankar 	                     | 1982 |
