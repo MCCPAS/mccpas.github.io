@@ -56,3 +56,5 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | Balaji E                             | 1992 |
 | Vinod Kumar                          | 1998 |
 | C N Purushothaman                    | 1975 |
+| Christian Simon                      | 2000 |
+| Jawahar John Jasper                  | 1997 |
