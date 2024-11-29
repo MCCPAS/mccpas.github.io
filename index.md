@@ -44,6 +44,8 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | Smiles Ratnaraj	                     | 1999 |
 | Eunice Jerusha 	                     | 1999 |
 | Vimalan N Thyagarajan                | 1999 |
+| Soujanya                             | 1999 |
+| Justin Prasanna Roy                  | 1999 |
 | Christian Simon                      | 2000 |
 | Ashok Kumar                          | 2000 |
 | Cecil Sesuraj	                       | 2000 |
