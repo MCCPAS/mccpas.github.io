@@ -29,7 +29,7 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | S.DHANASEKARAN	                     | 1985 |
 | P. Samuel Asirvatham (HOD) 	         | 1987	|
 | G.Shakil Muhammad 	                 | 1988 |
-| Suresh Kumaar                        | 1989 |
+| Krishna Suresh Kumaar                | 1989 |
 | Anand Jayaraman	                     | 1990 |
 | Benjamin Basker	                     | 1990 |
 | Amrutha	                             | 1991 |
