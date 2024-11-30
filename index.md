@@ -64,4 +64,5 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | Sam Paul D.	                         | 2008 | 
 | Noah Eastman S W                     | 2010 |
 | Abraham Rebairo	                     | 2017 |
+| Aravind K                            | 2023 |
 | Leoraj Marian Antony                 | 2024 |
