@@ -70,4 +70,4 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | Abraham Rebairo	                     | 2017 |
 | Rishab Anthosh                       | 2019 |
 | Aravind K                            | 2023 |
-| Leoraj Marian Antony                 | 2024 |
+| Leoraj Marian Tony K                 | 2024 |
