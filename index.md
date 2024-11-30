@@ -11,6 +11,7 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 |:-------------------------------------|:-----|
 | Dr. R BALAKRISHNAN (Retd. Professor) | 1963 |
 | Lakshminarayan (Retd. Professor)     | 1977	|
+| J F Rajasekharan (Retd. Professor)   |      |
 | R. Manickkavachagam(Retd. Professor) |      |
 | S.I.A. Philomin Raj(Retd. Professor) |      |
 | Caroline Michael (Retd. Professor)   |      |
