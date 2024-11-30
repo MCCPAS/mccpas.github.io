@@ -34,6 +34,7 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | Sujatha Krishnakumar	               | 1991 |
 | Balaji E                             | 1992 |
 | Daniel Elangovan 	                   | 1992	|
+| Betsy Japlet                         | 1994 |
 | Jayalakshmi G	                       | 1995 |
 | Iniyan Charles 	                     | 1997 |
 | Jawahar John Jasper                  | 1997 |
