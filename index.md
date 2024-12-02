@@ -21,6 +21,7 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | D.John Gnanakkan	                   | 1975 |
 | C N Purushothaman                    | 1978 |
 | A P Parthiban                        | 1978 |
+| Vijay Reddy                          | 1978 |
 | R SANKARA NARAYANAN 	               | 1981 |
 | Sivasankar Babu                      | 1981 |
 | A B Sivasankar 	                     | 1982 |
