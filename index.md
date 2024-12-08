@@ -22,6 +22,7 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | C N Purushothaman                    | 1978 |
 | A P Parthiban                        | 1978 |
 | Vijay Reddy                          | 1978 |
+| Radha Ramani 	                       | 1980 |
 | R SANKARA NARAYANAN 	               | 1981 |
 | Sivasankar Babu                      | 1981 |
 | A B Sivasankar 	                     | 1982 |
@@ -45,6 +46,8 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | Neeraja                              | 1998 |
 | Surend Raj Dharmapal                 | 1998 |
 | Vinod Kumar                          | 1998 |
+| Arulselvam Murthy	                   | 1998 |
+| Anandakumar 	                       | 1995 |
 | Caroline Victoria                    | 1998 |
 | Uma Kartick	                         | 1999 |
 | Smiles Ratnaraj	                     | 1999 |
