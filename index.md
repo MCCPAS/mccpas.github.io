@@ -25,6 +25,8 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | Radha Ramani 	                       | 1980 |
 | R SANKARA NARAYANAN 	               | 1981 |
 | Sivasankar Babu                      | 1981 |
+| Srinivas M V S                       | 1981 |
+| Padmanabhan M                        | 1981 |
 | A B Sivasankar 	                     | 1982 |
 | Seshadri Ramaswami	                 | 1982 |
 | Elangovan A	                         | 1984 |
@@ -47,6 +49,7 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | Surend Raj Dharmapal                 | 1998 |
 | Vinod Kumar                          | 1998 |
 | Arulselvam Murthy	                   | 1998 |
+| Bhooma S                             | 1998 |
 | Anandakumar 	                       | 1995 |
 | Caroline Victoria                    | 1998 |
 | Uma Kartick	                         | 1999 |
