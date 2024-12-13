@@ -33,6 +33,7 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | Seshadri Ramaswami	                 | 1982 |
 | Elangovan A	                         | 1984 |
 | S.DHANASEKARAN	                     | 1985 |
+| Kasi Visweswaran                     | 1985 |
 | P. Samuel Asirvatham (HOD) 	         | 1987	|
 | G.Shakil Muhammad 	                 | 1988 |
 | Krishna Suresh Kumaar                | 1989 |
