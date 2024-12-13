@@ -15,6 +15,7 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | R. Manickkavachagam(Retd. Professor) |      |
 | S.I.A. Philomin Raj(Retd. Professor) |      |
 | Caroline Michael (Retd. Professor)   |      |
+| Arumugam                             |      |
 | S Thiagarajan 	                     | 1970 |
 | Venkat Natesan Ramani 	             | 1975 |
 | N. Gautham	                         | 1975 |
@@ -33,6 +34,7 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | Seshadri Ramaswami	                 | 1982 |
 | Elangovan A	                         | 1984 |
 | S.DHANASEKARAN	                     | 1985 |
+| David Vijayakumar                    | 1985 |
 | Kasi Visweswaran                     | 1985 |
 | P. Samuel Asirvatham (HOD) 	         | 1987	|
 | G.Shakil Muhammad 	                 | 1988 |
@@ -62,6 +64,7 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | Soujanya                             | 1999 |
 | Justin Prasanna Roy                  | 1999 |
 | Jayaprakash G                        | 1999 |
+| Manuel Devaputhiran J                | 2000 |
 | Christian Simon                      | 2000 |
 | Ashok Kumar                          | 2000 |
 | Cecil Sesuraj	                       | 2000 |
@@ -79,8 +82,12 @@ Kindly register through https://forms.gle/wgAaJCtmmzkSiEio8 before 30 November 2
 | Sam Paul D.	                         | 2008 | 
 | Noah Eastman S W                     | 2010 |
 | Shylaja                              | 2010 |
+| Fathima Rizwana                      | 2010 |
 | Abraham Rebairo	                     | 2017 |
 | Roslin Elsa Varughese                | 2017 |
+| Fathima A                            |      |
 | Rishab Anthosh                       | 2019 |
+| Jeffrey                              | 2021 |
+| Ramalingam                           | 2021 |
 | Aravind K                            | 2023 |
 | Leoraj Marian Tony K                 | 2024 |
