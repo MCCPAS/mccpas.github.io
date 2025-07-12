@@ -88,6 +88,9 @@ Our alumni, all of them, who came back to the department for the nostalgia, evin
 | Dr.N.Gautham                 |1971-74|
 | Mr.Samuel Jayakaran          |1987-90|
 | Dr.N.Lakshminarayan          |1975-77|
+| Dr.R.Manickkavachagam        |       |
+| Dr.Harish Srinivasan         |2009-12|
+| Ms.Sujatha                   |1989-91|
 
 | **Year** | **B.Sc. Students** | **M.Sc. Students** | **Total Amount (₹)** |
 |:--------:|-------------------:|-------------------:|---------------------:|
@@ -99,6 +102,7 @@ Our alumni, all of them, who came back to the department for the nostalgia, evin
 | 2022-23  |                  6 |                  3 |          1,07,782.00  |
 | 2023-24  |                  9 |                  2 |          1,46,060.00  |
 | 2024-25  |                 14 |                  2 |          2,10,053.00  |
+| 2025-26  |                 13 |                  6 |          3,74,377.00  |
 
 
 ### Scholarship for Girl students by 1992-95 batch
