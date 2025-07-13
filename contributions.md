@@ -89,7 +89,7 @@ Our alumni, all of them, who came back to the department for the nostalgia, evin
 | Mr.Samuel Jayakaran          |1987-90|
 | Dr.N.Lakshminarayan          |1975-77|
 | Dr.R.Manickkavachagam        |       |
-| Dr.Harish Srinivasan         |2009-12|
+| Dr.Harish Srinivas           |2009-12|
 | Ms.Sujatha                   |1989-91|
 
 | **Year** | **B.Sc. Students** | **M.Sc. Students** | **Total Amount (₹)** |
