@@ -19,7 +19,7 @@
 |10.| 03.03.2022| Dr. Aruna Dhathathreyan, CSIR-CLRI       | [Watch](https://www.youtube.com/live/IoHISt6hFCk?si=ldK62i-neTuUFLGJ)                      |
 |11.| 28.02.2023| Dr. V. Subramanian, CSIR-CLRI            | [Watch](https://www.youtube.com/live/YIVlBD0RZpI?si=EjCweV71ESV5rWUk)                      |
 |12.| 22.01.2024| Dr. S. Gunasekaran, ISPA                 | [Watch](https://youtu.be/xn7znB9zzBQ?si=ge1EdO4Hbz2oU4LC)                      |
-
+|13.| 21.10.2024| Dr. Claudio Ferrari, Italy               | [Watch](https://youtu.be/dAMvl8ERZQA?si=rCJD7Dh5edIlWbkc)                      |
 ### Physics Alumni Meet
 
 1. December 2010
