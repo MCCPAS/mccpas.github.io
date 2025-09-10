@@ -16,10 +16,11 @@
 |7. | 21.03.2019| Prof. V. Balakrishnan, IIT-M             | [Watch](https://youtu.be/rJbLZ-9rVnU?si=7gtg1l1V_2BphShn)                      |
 |8. | 13.03.2020| Prof. S. Lakshmi Bala, IIT-M             | [Watch](#)                      |
 |9. | 08.04.2021| Prof. H. C. Verma, IIT-Kanpur            | [Watch](https://youtu.be/LEXhpnU8ZEw?si=4X9K8uZjDBlzJCvg)                      |
-|10.| 03.03.2022| Dr. Aruna Dhathathreyan, CSIR-CLRI       | [Watch](https://www.youtube.com/live/IoHISt6hFCk?si=ldK62i-neTuUFLGJ)                      |
-|11.| 28.02.2023| Dr. V. Subramanian, CSIR-CLRI            | [Watch](https://www.youtube.com/live/YIVlBD0RZpI?si=EjCweV71ESV5rWUk)                      |
+|10.| 03.03.2022| Dr. Aruna Dhathathreyan, CSIR-CLRI       | [Watch](https://www.youtube.com/live/IoHISt6hFCk?si=ldK62i-neTuUFLGJ)          |
+|11.| 28.02.2023| Dr. V. Subramanian, CSIR-CLRI            | [Watch](https://www.youtube.com/live/YIVlBD0RZpI?si=EjCweV71ESV5rWUk)          |
 |12.| 22.01.2024| Dr. S. Gunasekaran, ISPA                 | [Watch](https://youtu.be/xn7znB9zzBQ?si=ge1EdO4Hbz2oU4LC)                      |
 |13.| 21.10.2024| Dr. Claudio Ferrari, Italy               | [Watch](https://youtu.be/dAMvl8ERZQA?si=rCJD7Dh5edIlWbkc)                      |
+
 ### Physics Alumni Meet
 
 1. December 2010
