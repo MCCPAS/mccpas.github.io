@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is the MCC Physics Alumni Society website (mccpas.github.io), a static site built with Jekyll and hosted on GitHub Pages. The site maintains records of alumni achievements, endowment lecture series, and Physics Alumni Meet events.
+This is the Physics Alumni Society website for Madras Christian College (MCC), Chennai (mccpas.github.io). A static site built with Jekyll and hosted on GitHub Pages. The site maintains records of alumni achievements, endowment lecture series, and Physics Alumni Meet events.
 
 ## Development Commands
 
