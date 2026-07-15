@@ -1,3 +1,7 @@
+<marquee behavior="scroll" direction="left" scrollamount="4" style="background-color:#8B4513; color:white; padding:8px; font-size:14px;">
+Alumni are welcome to contribute for PAS Scholarship 2026-27 and Dr. B.M. Arthur Endowment Fund. For more information, please <a href="contact" style="color:#FFD700;">Contact Us</a>
+</marquee>
+
 ## Physics Alumni Society - MCC
 
 ### PAS Scholarship 2025-26
