@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Events - Physics Alumni Society MCC</title>
+  <meta name="description" content="Events and lectures of Physics Alumni Society, Madras Christian College, Chennai.">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+      color: #333;
+      line-height: 1.6;
+      background: #f5f5f5;
+    }
+    nav {
+      background: #fff;
+      padding: 15px 20px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    nav ul {
+      list-style: none;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 5px 20px;
+    }
+    nav a {
+      color: #8B4513;
+      text-decoration: none;
+      font-weight: 500;
+      padding: 5px 10px;
+      border-radius: 4px;
+      transition: background 0.3s;
+    }
+    nav a:hover, nav a.active { background: #f5f5f5; }
+    .hero {
+      background: linear-gradient(135deg, #8B4513 0%, #654321 100%);
+      color: white;
+      text-align: center;
+      padding: 50px 20px;
+    }
+    .hero h1 { font-size: 2.2rem; }
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    .content-card {
+      background: #fff;
+      border-radius: 10px;
+      padding: 30px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+      margin-bottom: 30px;
+    }
+    .section-title {
+      font-size: 1.5rem;
+      color: #8B4513;
+      margin-bottom: 25px;
+      border-bottom: 2px solid #8B4513;
+      padding-bottom: 10px;
+    }
+    .lecture-card {
+      display: flex;
+      gap: 20px;
+      padding: 20px;
+      margin-bottom: 15px;
+      background: linear-gradient(135deg, #f9f5f0, #fff);
+      border-radius: 10px;
+      border-left: 4px solid #8B4513;
+      transition: transform 0.3s;
+    }
+    .lecture-card:hover { transform: translateX(5px); }
+    .lecture-number {
+      background: #8B4513;
+      color: white;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      flex-shrink: 0;
+    }
+    .lecture-details { flex: 1; }
+    .lecture-date {
+      color: #8B4513;
+      font-weight: 600;
+      font-size: 0.9rem;
+    }
+    .lecture-speaker {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin: 5px 0;
+    }
+    .watch-btn {
+      display: inline-block;
+      padding: 6px 15px;
+      background: #8B4513;
+      color: white;
+      text-decoration: none;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      margin-top: 8px;
+      transition: background 0.3s;
+    }
+    .watch-btn:hover { background: #654321; }
+    .watch-btn.disabled {
+      background: #ccc;
+      cursor: not-allowed;
+    }
+    .meet-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 15px;
+    }
+    .meet-card {
+      background: linear-gradient(135deg, #8B4513, #A0522D);
+      color: white;
+      padding: 20px;
+      border-radius: 10px;
+      text-align: center;
+      transition: transform 0.3s;
+    }
+    .meet-card:hover { transform: scale(1.05); }
+    .meet-number {
+      font-size: 2rem;
+      font-weight: 700;
+    }
+    .meet-date { font-size: 0.95rem; opacity: 0.9; }
+    footer {
+      background: #333;
+      color: #ccc;
+      text-align: center;
+      padding: 30px 20px;
+      margin-top: 40px;
+    }
+    footer a { color: #FFD700; text-decoration: none; }
+    @media (max-width: 600px) {
+      .hero h1 { font-size: 1.6rem; }
+      .lecture-card { flex-direction: column; gap: 10px; }
+      nav a { font-size: 0.9rem; padding: 5px; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <ul>
+      <li><a href="./">Home</a></li>
+      <li><a href="about">About</a></li>
+      <li><a href="committee">Committee</a></li>
+      <li><a href="contributions">Contributions</a></li>
+      <li><a href="events" class="active">Events</a></li>
+      <li><a href="gallery">Gallery</a></li>
+      <li><a href="contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section class="hero">
+    <h1>Events</h1>
+  </section>
+
+  <div class="container">
+
+    <!-- KMK Endowment Lectures -->
+    <div class="content-card">
+      <h2 class="section-title">Prof. K.M. Karunakaran Endowment Lectures</h2>
+
+      <div class="lecture-card">
+        <div class="lecture-number">13</div>
+        <div class="lecture-details">
+          <div class="lecture-date">21.10.2024</div>
+          <div class="lecture-speaker">Dr. Claudio Ferrari, Italy</div>
+          <a href="https://youtu.be/dAMvl8ERZQA" target="_blank" class="watch-btn">▶ Watch</a>
+        </div>
+      </div>
+
+      <div class="lecture-card">
+        <div class="lecture-number">12</div>
+        <div class="lecture-details">
+          <div class="lecture-date">22.01.2024</div>
+          <div class="lecture-speaker">Dr. S. Gunasekaran, ISPA</div>
+          <a href="https://youtu.be/xn7znB9zzBQ" target="_blank" class="watch-btn">▶ Watch</a>
+        </div>
+      </div>
+
+      <div class="lecture-card">
+        <div class="lecture-number">11</div>
+        <div class="lecture-details">
+          <div class="lecture-date">28.02.2023</div>
+          <div class="lecture-speaker">Dr. V. Subramanian, CSIR-CLRI</div>
+          <a href="https://www.youtube.com/live/YIVlBD0RZpI" target="_blank" class="watch-btn">▶ Watch</a>
+        </div>
+      </div>
+
+      <div class="lecture-card">
+        <div class="lecture-number">10</div>
+        <div class="lecture-details">
+          <div class="lecture-date">03.03.2022</div>
+          <div class="lecture-speaker">Dr. Aruna Dhathathreyan, CSIR-CLRI</div>
+          <a href="https://www.youtube.com/live/IoHISt6hFCk" target="_blank" class="watch-btn">▶ Watch</a>
+        </div>
+      </div>
+
+      <div class="lecture-card">
+        <div class="lecture-number">9</div>
+        <div class="lecture-details">
+          <div class="lecture-date">08.04.2021</div>
+          <div class="lecture-speaker">Prof. H. C. Verma, IIT-Kanpur</div>
+          <a href="https://youtu.be/LEXhpnU8ZEw" target="_blank" class="watch-btn">▶ Watch</a>
+        </div>
+      </div>
+
+      <div class="lecture-card">
+        <div class="lecture-number">8</div>
+        <div class="lecture-details">
+          <div class="lecture-date">13.03.2020</div>
+          <div class="lecture-speaker">Prof. S. Lakshmi Bala, IIT-M</div>
+          <span class="watch-btn disabled">Not Available</span>
+        </div>
+      </div>
+
+      <div class="lecture-card">
+        <div class="lecture-number">7</div>
+        <div class="lecture-details">
+          <div class="lecture-date">21.03.2019</div>
+          <div class="lecture-speaker">Prof. V. Balakrishnan, IIT-M</div>
+          <a href="https://youtu.be/rJbLZ-9rVnU" target="_blank" class="watch-btn">▶ Watch</a>
+        </div>
+      </div>
+
+      <div class="lecture-card">
+        <div class="lecture-number">6</div>
+        <div class="lecture-details">
+          <div class="lecture-date">07.03.2018</div>
+          <div class="lecture-speaker">Prof. S. Gurubaran, IIGM-Mumbai</div>
+          <a href="https://youtu.be/CCG7q4UICO8" target="_blank" class="watch-btn">▶ Watch</a>
+        </div>
+      </div>
+
+      <div class="lecture-card">
+        <div class="lecture-number">5</div>
+        <div class="lecture-details">
+          <div class="lecture-date">24.02.2017</div>
+          <div class="lecture-speaker">Prof. M. Lakshmanan, Bharathidasan University</div>
+          <span class="watch-btn disabled">Not Available</span>
+        </div>
+      </div>
+
+      <div class="lecture-card">
+        <div class="lecture-number">4</div>
+        <div class="lecture-details">
+          <div class="lecture-date">23.01.2016</div>
+          <div class="lecture-speaker">Prof. Sundara Ramprabhu, IIT-M</div>
+          <span class="watch-btn disabled">Not Available</span>
+        </div>
+      </div>
+
+      <div class="lecture-card">
+        <div class="lecture-number">3</div>
+        <div class="lecture-details">
+          <div class="lecture-date">27.02.2015</div>
+          <div class="lecture-speaker">Dr. C. S. Sundar, IGCAR</div>
+          <a href="https://youtu.be/PiJC0GiwNAU" target="_blank" class="watch-btn">▶ Watch</a>
+        </div>
+      </div>
+
+      <div class="lecture-card">
+        <div class="lecture-number">2</div>
+        <div class="lecture-details">
+          <div class="lecture-date">26.02.2014</div>
+          <div class="lecture-speaker">Prof. N. Gautham, Madras University</div>
+          <a href="https://youtu.be/Q6SrB7eI64Q" target="_blank" class="watch-btn">▶ Watch</a>
+        </div>
+      </div>
+
+      <div class="lecture-card">
+        <div class="lecture-number">1</div>
+        <div class="lecture-details">
+          <div class="lecture-date">17.08.2012</div>
+          <div class="lecture-speaker">Prof. K. Thyagarajan, IIT-D</div>
+          <span class="watch-btn disabled">Not Available</span>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Physics Alumni Meet -->
+    <div class="content-card">
+      <h2 class="section-title">Physics Alumni Meet (PAM)</h2>
+
+      <div class="meet-grid">
+        <div class="meet-card">
+          <div class="meet-number">8th</div>
+          <div class="meet-date">December 14, 2024</div>
+        </div>
+        <div class="meet-card">
+          <div class="meet-number">7th</div>
+          <div class="meet-date">February 10, 2018</div>
+        </div>
+        <div class="meet-card">
+          <div class="meet-number">6th</div>
+          <div class="meet-date">February 11, 2017</div>
+        </div>
+        <div class="meet-card">
+          <div class="meet-number">5th</div>
+          <div class="meet-date">January 23, 2016</div>
+        </div>
+        <div class="meet-card">
+          <div class="meet-number">4th</div>
+          <div class="meet-date">December 13, 2014</div>
+        </div>
+        <div class="meet-card">
+          <div class="meet-number">3rd</div>
+          <div class="meet-date">December 15, 2012</div>
+        </div>
+        <div class="meet-card">
+          <div class="meet-number">2nd</div>
+          <div class="meet-date">December 17, 2011</div>
+        </div>
+        <div class="meet-card">
+          <div class="meet-number">1st</div>
+          <div class="meet-date">December 2010</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    <p>Physics Alumni Society - Madras Christian College, Chennai</p>
+    <p style="margin-top: 10px;"><a href="mailto:physicsalumnimcc@gmail.com">physicsalumnimcc@gmail.com</a></p>
+  </footer>
+
+</body>
+</html>
